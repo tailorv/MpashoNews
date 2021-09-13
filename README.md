@@ -1,54 +1,45 @@
-## Project Name.
-### NewsArticles App
+# MpashoNews
+An application that allows users to list and preview news articles from various sources all around the world
+#### BY: Lorna Kamau
 
-## Project Description.
-- This is an application that  helps us get a quick round up of international news with the ability to select and read the interesting ones
+## Description
+* The application consumes the [NewsAPI](https://newsapi.org/) hence the application provides the following functionalities to users:
+* View top stories. These are displayed on the landing page in carousel form. Each carousel item has a clickable link that allows the user to read the top story's article.
+* Have access to news sources. The user has access to over 50 news sources of various categories. These are displayed on the landing page in card format for each news source.
+* Search for articles from all around the world. The user can search for an article by keyword.
 
+![landing](./app/static/images/landing.png)
 
+## Live link
 
+## Development
+To make advancements/modifications, follow these steps:
 
-## CONTRIBUTORS/AUTHORS. 
-The contributor of this page is Francis Mumo kinyae.
+* Clone the repository
+* Cd to Folder 
+## Technologies Used
+Technologies used to develop this application:
 
-## SetUp Process 
-To run the newsArticles   App on your machine or server , use the following steps,
- have git installed to be able to view the code and the commits.
- have a working internet and browser preferably chrome browser.
- You can also load the live link of the github pages and view the page sources from the developer tools (for developers.)
-
- ## BDD.
- - The application uses different control flows in python to derive the logic
-
- - it also uses the terminal for most of the operations
-
-## Technologies Used.
-Built With This site is built with Python & Flask .
-
-## Features 
-* HomePage - This shows the different sources of news 
-
-*Articles list - This shows the articles as per the selected source
+1. Python v3
+2. Flask 1.1.2
+3. Flask-Bootstrap
+4. HTML 
+5. CSS
 
 
-## Site Link.
+## Support and contact details
 
-Look out for this site on [livesite](https://code.visualstudio.com/)
-
-## Known Bugs
-- Currently there are no known bugs in this project ,contact me incase of any witnessed.
+Should you be unable to access the website, have any recommendations and/or questions, feel free to email me:[maxwell.munene@student.moringaschool.com]
 
 
+## License.
+{MIT License
 
-### Prerequisites
-1. A text editor, preferably visual studio code [vsc](https://code.visualstudio.com/)
-2. Browser , preferably google-chrome.
+Copyright (c) 2021
 
-- `git clone <your repo name>`
-- `cd <repo name> && code .`
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
-### Contact Information.
-- To contact me , send me an email on 'francis.kinyae@student.moringaschool.com'
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
-### Licence
-Distributed under the MIT License. See LICENSE for more information,click 
-[here](https://github.com/fkinyae/newsArticles/blob/master/LICENSE).
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE. } Copyright (c) {2021} {Maxwell Munene}
+
