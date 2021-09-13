@@ -9,8 +9,9 @@
 }
 
 .title {
+    border: 2px solid rgb(226, 98, 98);
     font-size: x-large;
     font-weight: bold;
-    color: maroon;
-    border-color: #ffffff;
+    color: rgb(31, 1, 1);
+    /* border-color: #ffffff; */
 }
