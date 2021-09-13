@@ -1,14 +1,16 @@
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
 .container {
-    background-color: aqua !important;
+    background:linear-gradient(#61c0dd,#ffffff,#64c1e6,#ffffff) ;
     font-family: 'Playfair Display', serif;
 }
 
 .desc {
-    color: black;
+    color: rgb(145, 145, 145);
 }
 
 .title {
+    font-size: x-large;
     font-weight: bold;
     color: maroon;
+    border-color: #ffffff;
 }
