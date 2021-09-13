@@ -1,7 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
 .container {
-    background-color: aqua !important;
-    font-family: 'Playfair Display', serif;
+    /* background-color: rgb(255, 72, 0); */
+    background:linear-gradient(#000000,#ffffff,#ffffff,#000000) ;
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 .news-header{
