@@ -1,6 +1,6 @@
 # MpashoNews
 An application that allows users to list and preview news articles from various sources all around the world
-#### BY: Lorna Kamau
+#### BY: MAXWELL MUNENE
 
 ## Description
 * The application consumes the [NewsAPI](https://newsapi.org/) hence the application provides the following functionalities to users:
@@ -17,6 +17,7 @@ To make advancements/modifications, follow these steps:
 
 * Clone the repository
 * Cd to Folder 
+
 ## Technologies Used
 Technologies used to develop this application:
 
