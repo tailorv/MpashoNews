@@ -20,7 +20,7 @@ def index():
     
     
     
-    title = 'Your Trusted News Sources'
+    title = 'MPASHO NEWS '
     return render_template('index.html', title = title, general = general_news, sports = sports_news, entertainment = entertainment_news,   health = health_news, business = business_news, technology = tech_news, science = science_news)
 
 @main.route('/articles/<id>')
