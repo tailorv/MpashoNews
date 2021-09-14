@@ -1,11 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
 .container {
     background:linear-gradient(#000000,#ffffff,#ffffff,#000000);
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: 'Times New Roman', Times, serif;
     font-size: x-large;
+    color: rgb(0, 0, 0);
 }
 
 .news-header{
-    color: rgb(255, 255, 255);
+    background:linear-gradient(#ff0000,#ffffff,#ffffff,#ff0000);
     font-weight: bolder;
+    font-size: xx-large;
 }
