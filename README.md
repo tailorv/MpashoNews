@@ -11,12 +11,14 @@ An application that allows users to list and preview news articles from various 
 ![landing](./app/static/images/landing.png)
 
 ## Live link
-
+ * https://newsmpasho.herokuapp.com/
+ 
 ## Development
 To make advancements/modifications, follow these steps:
 
 * Clone the repository
 * Cd to Folder 
+
 
 ## Technologies Used
 Technologies used to develop this application:
