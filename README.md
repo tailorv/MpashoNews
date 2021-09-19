@@ -12,12 +12,13 @@ An application that allows users to list and preview news articles from various 
 
 ## Live link
  * https://newsmpasho.herokuapp.com/
- 
+
 ## Development
 To make advancements/modifications, follow these steps:
 
-* Clone the repository
-* Cd to Folder 
+* Clone the repository **https://github.com/tailorv/MpashoNews.git**
+* Cd to Folder MpashoNews
+* Call python3 manage.py server
 
 
 ## Technologies Used
